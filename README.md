@@ -4,7 +4,7 @@
 
 <p><span style="color:#000000"><span style="font-size:12px"><span style="font-family:Verdana,Geneva,sans-serif">Data and R scrips in this repository are used for the analyses described in the manusrctipt entitled &#39;A Neural Network for Phenotyping Fusarium Damaged Kernels (FDK) and its Impact on Genomic Selection Accuracy&#39; </span></span></span></p>
 
-<p><span style="color:#000000"><span style="font-size:12px"><span style="font-family:Verdana,Geneva,sans-serif">The genotypic data, in the file &#39;FHBgeno_2020-21.csv&#39; are arranged with lines in rows and markers in columns. Marker names are in the headers. The phenotypic data, in the file &#39;FHBpheno_2020-21.xls&#39; are arranged with column headers in the first line, and each row corresponds to a single experimental unit. </span></span></span></p>
+<p><span style="color:#000000"><span style="font-size:12px"><span style="font-family:Verdana,Geneva,sans-serif">The genotypic data, in the file &#39;FHBgeno_2020-21.csv&#39; are arranged with lines in rows and markers in columns. Marker names are in the headers. The phenotypic data, in the file &#39;FHBpheno_2020-21.xls&#39; are arranged with column headers in the first line, and each row corresponds to a single experimental unit. The script for heritability estimation is from github user ackermanar, one of the authors of this work</span></span></span></p>
 
 <p><span style="color:#000000"><span style="font-size:12px"><span style="font-family:Verdana,Geneva,sans-serif">The headers are defined as follows:</span></span></span></p>
 
